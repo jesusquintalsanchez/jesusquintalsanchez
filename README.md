@@ -1,13 +1,13 @@
 ### Hi there 👋, My name is Jesus Quintal a my nick name is chucho. I hope this reposotory can help you in something.
 
-### Freelance Web developer.
-
-I am a professional with more 13 years of experience working in software companies. In all this time always, I have so satisfaction build system that help to easier life of the person.
+### I am a professional with more 13 years of experience working in software companies. In all this time always, I have so satisfaction build system that help to easier life of the person.
 
 
-## Tecnologías:
+## Technologies:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -15,7 +15,7 @@ I am a professional with more 13 years of experience working in software compani
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 
-## Encuéntrame en:
+## Find me in:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
