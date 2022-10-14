@@ -4,8 +4,8 @@
 
 My contributions in GIT are mainly in private projects, but I hope soon to share my personal challenges to have a greater contribution that is public and can help other Dev.
 
-## Technologies:
-[![C#](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdesarrolloweb.com%2Fstorage%2Ftag_images%2Factual%2FBzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png&imgrefurl=https%3A%2F%2Fdesarrolloweb.com%2Fhome%2Fc&tbnid=y4CQQuyjryEZQM&vet=12ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ..i&docid=BBNIM58R5kQ0dM&w=500&h=300&q=c%23&ved=2ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ)]()
+## SKill:
+[![C#](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdesarrolloweb.com%2Fstorage%2Ftag_images%2Factual%2FBzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png&imgrefurl=https%3A%2F%2Fdesarrolloweb.com%2Fhome%2Fc&tbnid=y4CQQuyjryEZQM&vet=12ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ..i&docid=BBNIM58R5kQ0dM&w=500&h=300&q=c%23&ved=2ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ&logo=swift&logoColor=white&labelColor=101010 )]()
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
@@ -16,7 +16,7 @@ My contributions in GIT are mainly in private projects, but I hope soon to share
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 
-## Find me :
+## Find me at:
 
 [![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
