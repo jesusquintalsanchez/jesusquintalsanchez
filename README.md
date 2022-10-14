@@ -2,9 +2,10 @@
 
 ### I am a professional with more 13 years of experience working in software companies. In all this time always, I have so satisfaction build system that help to easier life of the person.
 
+My contributions in GIT are mainly in private projects, but I hope soon to share my personal challenges to have a greater contribution that is public and can help other Dev.
 
 ## Technologies:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![C#](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdesarrolloweb.com%2Fstorage%2Ftag_images%2Factual%2FBzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png&imgrefurl=https%3A%2F%2Fdesarrolloweb.com%2Fhome%2Fc&tbnid=y4CQQuyjryEZQM&vet=12ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ..i&docid=BBNIM58R5kQ0dM&w=500&h=300&q=c%23&ved=2ahUKEwiKiaHA4t76AhVmlIQIHR9-At0QMygAegUIARCOAQ)]()
 
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
