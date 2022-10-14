@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, My name is Jesus Quintal a my nick name is chucho. I hope this reposotory can help you in something.
+
+### Freelance full-stack Web.
 
 <!--
 **jesusquintalsanchez/jesusquintalsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
