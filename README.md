@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Jesus Quintal</h3>
-<h4 align="left">I am a professional with more than 14 years of experience working in software companies. I hope this repository can help you in something. My contributions in GIT are mainly in private projects, but I hope soon to be able to share my personal challenges to have a greater contribution that is public and can help other developers.</h4>
+<h4 align="left">I hope this repository can help you in something. My contributions in GIT are mainly in private projects, but I hope soon to be able to share my personal challenges to have a greater contribution that is public and can help other developers.</h4>
 
 - 🔭 I’m currently working on [Kensium](https://www.kensium.com/)
 
